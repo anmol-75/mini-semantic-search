@@ -1,0 +1,32 @@
+[
+    {
+        "id": "doc1",
+        "title": "Python",
+        "category": "programming",
+        "text": "Python is a programming language used for machine learning, data analysis, automation, and web development."
+    },
+    {
+        "id": "doc2",
+        "title": "Machine Learning",
+        "category": "AI",
+        "text": "Machine learning allows computers to learn patterns from data and make predictions without being explicitly programmed."
+    },
+    {
+        "id": "doc3",
+        "title": "Deep Learning",
+        "category": "AI",
+        "text": "Deep learning uses neural networks with multiple layers to learn complex patterns from large amounts of data."
+    },
+    {
+        "id": "doc4",
+        "title": "SQL",
+        "category": "database",
+        "text": "SQL is used to store, retrieve, modify, and analyze structured data in relational databases."
+    },
+    {
+        "id": "doc5",
+        "title": "Vector Database",
+        "category": "database",
+        "text": "A vector database stores numerical representations of data called embeddings and allows similarity search."
+    }
+]
